@@ -1,0 +1,27 @@
+/* Changing font-weight as normal */
+.color-title {
+    font-weight: normal;
+}
+
+/* Changing the image size */
+img[src] {
+    height: 200px;
+    width: 200px;
+}
+
+/* Changing color of the text */
+#red {
+    color: red;
+}
+#blue {
+    color: rgb(26, 123, 220);
+}
+#orange {
+    color: orange;
+}
+#green {
+    color: green;
+}
+#yellow {
+    color: yellow;
+}
